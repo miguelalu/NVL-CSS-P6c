@@ -1,0 +1,103 @@
+body {
+	background-color: #cadde5;
+	padding: 0;
+	margin-left: 200px;
+	margin-right: 200px;
+}
+header {
+	background-color: #3b4455;
+	padding: 25px;
+	color: #fff;
+	text-align: center;
+}
+h1 {
+	font-family: calibri;
+	font-size: 38px;
+	text-decoration: none;
+	text-align: center;
+}
+#menu {
+	padding: 0;
+}
+#menu li {
+	display: inline;
+}
+#menu a[href*="#"] {
+	font-family:San Francisco,Futura, calibri;
+	font-size: 15px;
+	text-decoration: none;
+	float: left;
+	padding: 10px;
+	margin: 2px;
+	background-color: #2175bc;
+	color: #fff
+}
+#titulo h2 {
+	font-family:San Francisco, Futura, calibri;
+	font-size: 30px;
+	text-decoration: none;
+	padding: 0;
+	margin: 0;
+}
+#titulo small {
+	font-family: arial;
+	font-size: 10px;
+}
+.imagen {
+	width: 500px;
+	float: left;
+	margin: 10px;
+}
+#intro p {
+	font-family:San Francisco, Futura, calibri;
+	font-size: 17px;
+	text-decoration: none;
+	text-align: justify;
+}
+#contenedor1 {
+	border: 2px solid #3b4455;
+	padding:10px;
+	margin: 15px;
+	background-color: #fff;
+}
+#contenedor_receta {
+	width: 700px;
+	border: 2px solid #3b4455;
+	padding:10px;
+	margin: 10px;
+	background-color: #fff;
+	font-family:San Francisco, Futura, calibri;
+	font-size: 17px;
+	text-decoration: none;
+	text-align: justify;
+}
+.body_receta>h4 {
+	margin-bottom: 0;
+	padding-bottom: 0;
+}
+.coment {
+	font-family:San Francisco, Futura, calibri;
+	font-size: 17px;
+	text-decoration: none;
+	text-align: justify;
+}
+#comentarios {
+	height: 350px;
+	border: 2px solid #3b4455;
+	padding:10px;
+	margin: 15px;
+	background-color: #fff;
+}
+.coment p {
+	display: inline;
+	font-size: 15px;
+	color: red;
+}
+#publica_comentario span {
+	font-family:San Francisco, Futura, calibri;
+	font-size: 17px;
+	text-decoration: none;
+}
+
+
+
